@@ -5,7 +5,8 @@
 
   
 .nav-div{
-  max-width: 1140px;
+  margin: 0 auto;
+    max-width: 1140px;
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
@@ -25,7 +26,7 @@
   padding: 100px 50px;
   text-align: center;
     justify-self: center;
-    margin: 100px 50px;
+    margin: 0 auto;
     align-items: center;
 }
 h3 {
@@ -94,7 +95,7 @@ h3 {
 .sec3 {
  padding: 60px 20px;
   text-align: center;
-  background-color: #f6f8ff;
+ 
 }
 .sec3 h1 {
   font-size: 50px;
@@ -107,6 +108,7 @@ h3 {
   flex-wrap: wrap;
   justify-content: center;
   gap: 20px;
+
 }
 .card {
  background-color: #fff;
